@@ -12,7 +12,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 ```sh
-    git clone https://github.com/shoyimobloqulov/vue-openweathermap-api-template.git
+git clone https://github.com/shoyimobloqulov/vue-openweathermap-api-template.git
 ```
 cd vue-openweathermap-api-template
 
