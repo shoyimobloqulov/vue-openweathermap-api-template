@@ -27,5 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+![alt text](image.png)
 
 
